@@ -7,6 +7,7 @@ import Classroom from "./components/classroom";
 function App() {
   return (
     <div className="App">
+      <Classroom/>
     </div>
   );
 }
